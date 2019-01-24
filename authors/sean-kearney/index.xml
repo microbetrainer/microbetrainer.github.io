@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean Kearney on </title>
+    <link>/authors/sean-kearney/</link>
+    <description>Recent content in Sean Kearney on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/authors/sean-kearney/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recurrent Clostridium difficile infection associates with distinct bile acid and microbiome profiles</title>
+      <link>/content/publication/allegretti-recurrent-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/allegretti-recurrent-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

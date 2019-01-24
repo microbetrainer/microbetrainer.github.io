@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey G. Lawrence on </title>
+    <link>/authors/jeffrey-g.-lawrence/</link>
+    <description>Recent content in Jeffrey G. Lawrence on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/authors/jeffrey-g.-lawrence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whole genome comparison of a large collection of mycobacteriophages reveals a continuum of phage genetic diversity</title>
+      <link>/content/publication/pope-whole-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/pope-whole-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

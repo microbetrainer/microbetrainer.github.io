@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claire Duvallet on </title>
+    <link>/authors/claire-duvallet/</link>
+    <description>Recent content in Claire Duvallet on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/authors/claire-duvallet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predictability and persistence of prebiotic dietary supplementation in a healthy human cohort</title>
+      <link>/content/publication/gurry-predictability-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/gurry-predictability-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clary B. Clish on </title>
+    <link>/authors/clary-b.-clish/</link>
+    <description>Recent content in Clary B. Clish on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/authors/clary-b.-clish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Endospores and other lysis-resistant bacteria comprise a widely shared core community within the human microbiota</title>
+      <link>/content/publication/kearney-endospores-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/kearney-endospores-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Clostridium difficile infection associates with distinct bile acid and microbiome profiles</title>
+      <link>/content/publication/allegretti-recurrent-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/allegretti-recurrent-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

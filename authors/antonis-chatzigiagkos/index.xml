@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonis Chatzigiagkos on </title>
+    <link>/authors/antonis-chatzigiagkos/</link>
+    <description>Recent content in Antonis Chatzigiagkos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/authors/antonis-chatzigiagkos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dietary microbes modulate transgenerational cancer risk</title>
+      <link>/content/publication/poutahidis-dietary-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/poutahidis-dietary-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial symbionts accelerate wound healing via the neuropeptide hormone oxytocin</title>
+      <link>/content/publication/poutahidis-microbial-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
+      
+      <guid>/content/publication/poutahidis-microbial-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

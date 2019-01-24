@@ -14,15 +14,31 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <loc>/content/publication/kearney-endospores-2018/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/content/publication/kearney-orthogonal-2018/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/gurry-predictability-2018/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publications/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -32,6 +48,70 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/wilck-salt-responsive-2017/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/gibbons-two-2017/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/allegretti-recurrent-2016/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/poutahidis-dietary-2015/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/ibrahim-maternal-2015/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/pope-whole-2015/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/poutahidis-microbial-2013-1/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/publication/poutahidis-microbial-2013/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -54,6 +134,69 @@
     
     <url>
     
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a.-springer/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alison-perrotta/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/andr%C3%A1s-balogh/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anja-m%C3%A4hler/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/antonis-chatzigiagkos/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ashwin-ananthakrishnan/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -63,6 +206,25 @@
     <url>
     
       <loc>/authors/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bernard-j.-varian/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/caitlin-kwok/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -78,7 +240,386 @@
     
     <url>
     
+      <loc>/authors/charles-a.-bowman/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chris-s.-smillie/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/christopher-smillie/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/claire-duvallet/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/clary-b.-clish/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/content/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/daniel-a.-russell/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/david-j.-asai/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/deborah-jacobs-sera/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/elijah-bogart/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eric-alm/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eric-j.-alm/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/georg-k.-gerber/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/graham-f.-hatfull/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hendrik-bartolomaeus/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j.-r.-korzenik/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeffrey-g.-lawrence/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jessica-r.-allegretti/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jessica-r.-lakritz/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kevin-bullock/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kristoffer-forslund/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lajos-mark%C3%B3/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lynn-bry/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mariana-g.-matus/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/markus-kleinewietfeld/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mathilde-poyet/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nicola-wilck/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ning-li/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/peimin-qi/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/roger-w.-hendrix/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s.-m.-kearney/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s.-mirabal/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/scott-w.-olesen/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sean-kearney/</loc>
+      <lastmod>2016-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sean-m.-gibbons/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sean-m.-kearney/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sheyla-mirabal/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/siddheshvar-bhela/</loc>
+      <lastmod>2013-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stefanie-haase/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/steven-g.-cresawn/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/susan-e.-erdman/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/t.-levkovich/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -87,6 +628,87 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tatiana-levkovich/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/theofilos-poutahidis/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thomas-gurry/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/welkin-h.-pope/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/william-r.-jacobs-jr/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xiaofang-jiang/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/y.-ibrahim/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yassin-m.-ibrahim/</loc>
+      <lastmod>2015-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/zain-kassam/</loc>
+      <lastmod>2018-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
