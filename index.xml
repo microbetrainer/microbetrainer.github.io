@@ -6,9 +6,33 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; sean kearney 2019</copyright>
+    <copyright>&amp;copy; Sean Kearney 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-i-do&#34;&gt;What I do&lt;/h2&gt;
+
+&lt;p&gt;Shortly after graduating with my PhD from MIT, I took off to Tokyo, Japan thanks to a fellowship from the Japanese Society for the Promotion of Science. I am now working in the lab of &lt;a href=&#34;http://www.microbiolimmunol.med.keio.ac.jp/home.html&#34; target=&#34;_blank&#34;&gt;Kenya Honda&lt;/a&gt; on a couple of projects to discern the molecular bases for protective effects of bacteria on their hosts. Now, and during my PhD, I focus on a few main questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do bacteria move through the environment, and what are the environmental cues that allow microorganisms to distinguish hospitable from inhospitable environments?&lt;/li&gt;
+&lt;li&gt;What environmental features ensure the growth, maintenance, and persistent colonization of microorganisms introduced into new ecosystems? That is, what constraints should we consider when constructing a microbial niche?&lt;/li&gt;
+&lt;li&gt;What are the consequences of microbial physiological activities on their environments and how do these feedback into microbial physiology?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-i-care-about&#34;&gt;What I care about&lt;/h2&gt;
+
+&lt;p&gt;Animals have always been an important part of my life, and I have a lot of compassion and empathy for them. I spend a lot of time thinking about animal welfare and more broadly welfare and equitability for the disenfranchised. On this front, I volunteer with animal rights organizations and look for ways to encourage people to adopt more compassionate diets.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Contact</title>
