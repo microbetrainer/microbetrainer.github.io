@@ -35,6 +35,24 @@
     </item>
     
     <item>
+      <title>On Science</title>
+      <link>/about/science/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/about/science/</guid>
+      <description>
+
+&lt;h2 id=&#34;microbial-ecology&#34;&gt;Microbial Ecology&lt;/h2&gt;
+
+&lt;p&gt;Thinking on the scale of microorganisms can be really challenging as a macroorganism. While the intuition and approaches developed for macroecology may have relevance in microbial ecosytems, in many ways, I think it is misleading to think about microbial ecology as a miniature version of macrobial ecology.&lt;/p&gt;
+
+&lt;p&gt;Undergraduate education in bioprocess engineering emphasizes scaling up bench-scale technologies to industrial scale fermentations. Unfortunately, scale-up is a nontrivial process, particularly for cell culture, as behaviors and physiology of cells at the lab scale often completely change in &amp;gt;1000 L reactors. In a similar way, the behavior of microorganisms on small scales, even when in isolation, is not as predictable as simply scaling down observations from bulk culture growth.&lt;/p&gt;
+
+&lt;p&gt;I chose to do a PhD in biological engineering because I wanted to develop new tools to study microorganisms and microbial ecology that do not rely on extrapolation of intuitions from macroscale biological processes. In order to do so, I think it is important to abandon assumptions about how things are going to work, and in a sense, meet the microbes where they&amp;rsquo;re at. To me, this mentality requires new approaches: ways of identifying microbial populations, predicting how microorganisms respond to perturbations, and how isogenic microbial populations differentiate in time and space in response to microscale changes in their environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
